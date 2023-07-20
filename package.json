@@ -1,8 +1,8 @@
 {
   "name": "tempobot",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "MsgRoom bot",
   "main": "bot-main.json",
   "scripts": {
     "start": "node bot-main.mjs"
-    "install": "npm i msgroom && node bot-main.mjs"
+    "install": "npm i msgroom"
