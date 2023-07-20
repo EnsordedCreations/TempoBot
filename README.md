@@ -1,4 +1,4 @@
 # How to start
-Download Node.js if you didint. Open cmd and type "npm install msgroom". then type "node bot-main.mjs" to start after install 
+Download Node.js if you didint. Open cmd and type "npm install msgroom". then type "npx test" to start after install 
 # Instructions
 https://www.npmjs.com/package/msgroom
