@@ -4,5 +4,5 @@
   "description": "MsgRoom bot",
   "main": "bot-main.json",
   "scripts": {
-    "start": "node index.js"
-    "test": "npm i msgroom && node bot-main.mjs"
+    "start": "node bot-main.mjs"
+    "install": "npm i msgroom && node bot-main.mjs"
