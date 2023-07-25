@@ -5,7 +5,7 @@ console.log("Adding commands To the Bot...")
 client.commands.ping = () => "pong";
 client.commands.version = () => "TempoBot 1.0.0"
 client.commands.owners = () => "The Owner of TempoBot: Kris47\nThe Co-Owner: Nightlight326"
-client.commands.discordusernames = () => "Kris47 Discord username: @kris46#2975\n Nightlight326's Discord Username: @nightlight327#0566"
+client.commands.discordusernames = () => "Kris47 Discord username: @kris46\n Nightlight326's Discord Username: @nightlight327#0566"
 client.commands.unhost = () => client.disconenct();
 client.commands.test = () => "This is a test command, No Test Avalible for now"
 client.commands.changelog = () => "Changelog:\nNothing"
