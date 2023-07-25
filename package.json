@@ -5,4 +5,4 @@
   "main": "bot-main.mjs",
   "scripts": {
     "start": "node bot-main.mjs"
-    "install": "npm i msgroom"
+    "installall": "npm i msgroom"
