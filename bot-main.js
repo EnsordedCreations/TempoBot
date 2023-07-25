@@ -9,7 +9,7 @@ client.commands.discordusernames = () => "Kris47 Discord username: @kris46\n Nig
 client.commands.unhost = () => client.disconenct();
 client.commands.test = () => "This is a test command, No Test Avalible for now"
 client.commands.changelog = () => "Changelog:\nNothing"
-console.log("Done!)")
+console.log("Done!")
 
 await client.connect();
 console.log("Connected to MsgRoom.")
